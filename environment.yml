@@ -1,0 +1,21 @@
+name: nlp_project_env
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - scipy
+  - tqdm
+  - nltk
+  - pip
+  - scikit-learn
+  - gensim
+  - spacy
+  - ipykernel
+  - pandas
+  - numpy
+  - jupyterlab
+  - notebook
+  - seaborn
+  - matplotlib
+#prefix: /home/georgi/miniconda3/envs/nlp_project_env
+

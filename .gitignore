@@ -1,0 +1,14 @@
+# Python / Jupyter junk
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Virtual environments
+venv/
+.env/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
