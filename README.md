@@ -1,3 +1,8 @@
+# Business case
+Setting the Scene
+
+Imagine you are working for a social media company. The company is concerned with the growing amount of fake news circulatng on it's platform. They have assigned you to investigate how fake news can be recognized and create a method of identifying it. Let's work through this problem together, first by exploring and cleaning the data and then working to classify fake vs factual news stories. We'll also create some plots of our outputs and discuss how we would communicate our findings to stakeholders.
+
 # NLP Course Jupyter Notebooks
 
 This repository contains my NLP practice notebooks (tokenization, stopwords, BoW, TF–IDF, LSA, etc.) using Anaconda + Jupyter.
